@@ -1,4 +1,4 @@
-# CareGap Capstone Project: HEDIS Explainer
+# CareGap Capstone Project: AI-Based Care Gap Detection Using HEDIS Standards
 
 ## Overview
 The **CareGap Capstone Project** is a web-based application built with **FastAPI** that analyzes patient medical records and identifies preventive care gaps based on **HEDIS** (Healthcare Effectiveness Data and Information Set) guidelines. 
